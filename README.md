@@ -64,14 +64,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-eb9e34.svg?logo=firebase&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  
-<!--     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-278891.svg?logo=netlify&logoColor=white&style=for-the-badge"></a>  
-    <a href="#"><img alt="JSON SERVER" src="https://img.shields.io/badge/jsonserver-000098.svg?logo=jsonserverlogoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-eb9e34.svg?logo=firebase&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a> -->
+    <a href="#"><img alt="JSON SERVER" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
 </p>
 
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
