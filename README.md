@@ -51,10 +51,10 @@
 <!--   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a> -->
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-1d232b.svg?logo=pandas&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/numpy-7996bd.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
+<!--   <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/numpy-7996bd.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-7as996.svg?logo=matplotlib&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Scikt-learn" src="https://img.shields.io/badge/scikit-learn-278891.svg?logo=scikitlearn&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-FFA500.svg?logo=tensorflow&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-FFA500.svg?logo=tensorflow&logoColor=white&style=for-the-badge"></a> -->
 <!--   <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a> -->
 </p>
 
