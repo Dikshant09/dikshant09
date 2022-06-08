@@ -49,7 +49,13 @@
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
   <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-000000.svg?logo=pandas&logoColor=white&style=for-the-badge"></a>
+  
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/pandas-000000.svg?logo=pandas&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/numpy-7996bd.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/matplotlib-7as996.svg?logo=matplotlib&logoColor=white&style=for-the-badge"></a>
+  
+  
+<!--   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-000000.svg?logo=pandas&logoColor=white&style=for-the-badge"></a> -->
 <!--   <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/numpy-7996bd.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-7as996.svg?logo=matplotlib&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Scikt-learn" src="https://img.shields.io/badge/scikit-learn-278891.svg?logo=scikitlearn&logoColor=white&style=for-the-badge"></a>
