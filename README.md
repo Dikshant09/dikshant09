@@ -58,8 +58,7 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
-<!--     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a> -->
-<!--       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a> -->
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-278891.svg?logo=netlify&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-eb9e34.svg?logo=firebase&logoColor=white&style=for-the-badge"></a>
