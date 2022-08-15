@@ -69,3 +69,4 @@
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
    <a href="mailto:09dikshant09@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/dikshant-83b736200/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://dk-dikshant-portfolio.herokuapp.com/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio"> </a>
