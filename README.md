@@ -21,7 +21,7 @@
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
   <li>I am Dikshant, a guy who loves💖 to code</li>
-  <li>I am a web developer & machine learner 🖥️</li>
+  <li>I am a web developer & machine learning enthusiast 🖥️</li>
   <li>Currently, scratching my head in mastering React 😅</li>
   <li>I am persuing my B.Tech CSE from Chitkara University 🎓</li>
 <!--   <li>Check out my website: https://mukulrajpoot.com </li> -->
