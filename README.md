@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align="right">
+<!-- <p align="right">
 <a href="https://wakatime.com/@b9832794-a3f9-4f1d-87bd-407c34ad33d2">
   <img src="https://wakatime.com/badge/user/b9832794-a3f9-4f1d-87bd-407c34ad33d2.svg?style=social" alt="Total time coded since 4 June 2022" />
 </a>
-</p>
+</p> -->
   
 <!-- <p align="center">
   <a href="https://github.com/mukulrajpoot262610?tab=repositories&sort=stargazers">
